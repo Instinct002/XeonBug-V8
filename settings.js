@@ -21,12 +21,12 @@ global.ownername = 'Qasim Ali' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.packname = '❄️I N S T Y❄️'
+global.author = '랜ᏆNᏚᎢᏆNᏟᎢ\n\nContact: +2349161904543'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Global Bot"
+global.wm = "❄️I N S T Y❄️"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
